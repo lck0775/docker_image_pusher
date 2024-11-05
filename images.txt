@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 linuxserver/librespeed
 adolfintel/speedtest
-allanpk716/chinesesubfinder
+allanpk716/chinesesubfinder:latest
 jxxghp/moviepilot
 xinjiawei1/emby_unlockd
 ghcr.io/ajnart/homarr
