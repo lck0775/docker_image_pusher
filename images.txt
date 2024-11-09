@@ -3,6 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 linuxserver/bazarr
+adolfintel/speedtest
 linuxserver/librespeed
 adolfintel/speedtest
 allanpk716/chinesesubfinder:latest
