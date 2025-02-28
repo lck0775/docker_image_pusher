@@ -8,6 +8,7 @@ linuxserver/librespeed
 adolfintel/speedtest
 allanpk716/chinesesubfinder:latest
 jxxghp/moviepilot
+jxxghp/moviepilot-v2:latest
 xinjiawei1/emby_unlockd
 ghcr.io/ajnart/homarr
 linuxserver/heimdall
